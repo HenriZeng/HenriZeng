@@ -52,7 +52,7 @@
 ### 📫 Connect with Me
 - 📧 henri_zeng@126.com
 - 📱 18452481758
-- 🔗 [My Resume](https://github.com/HenriZeng/HenriZeng/blob/main/曾梓微_Resume.pdf) （稍后上传最新简历 PDF）
+- 🔗 [My Resume](https://github.com/HenriZeng/HenriZeng/blob/main/曾梓微_Resume.pdf)
 - 🌐 Shanghai, China
 
 ---
