@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm 曾梓微 (Henri Zeng)
+# 👋 Hi there, I'm Henri Zeng (曾梓微)
 
 **Embedded Systems Engineer | Robotics & IoT Enthusiast**
 
@@ -6,10 +6,10 @@
 [![Email](https://img.shields.io/badge/Email-henri_zeng%40126.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:henri_zeng@126.com)
 
 ### About Me
-- 🎓 Master's in Computer Science & Technology @ **Shanghai Maritime University** (2026)
-- 🔧 Vehicle Engineering background (B.Eng) with strong hardware-software integration skills
-- 💡 Passionate about building reliable, high-performance embedded systems for **robotics**, **industrial automation**, and **edge IoT**
-- Currently focusing on real-time control, sensor fusion, and remote maintenance systems
+- 🎓 M.Sc. in Computer Science & Technology, **Shanghai Maritime University** (Expected 2026)
+- 🔧 B.Eng. in Vehicle Engineering, Jiangsu University (2020)
+- 💡 Passionate about developing reliable, real-time embedded systems for **robotics**, **industrial automation**, and **edge IoT**
+- Strong background in hardware-software co-design, with experience in mechanical design and intelligent systems evaluation
 
 ### 🛠️ Tech Stack
 
@@ -32,31 +32,32 @@
 
 **Other**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=matlab&logoColor=white)
 
 ### 🚀 Featured Projects
 
-- **[embedded_projects](https://github.com/HenriZeng/embedded_projects)**  
-  High-precision servo control system based on **STM32 + FreeRTOS**. Three-layer architecture, DMA + non-blocking CLI, 50Hz closed-loop control.
+- **[High-Precision Servo Control System](https://github.com/HenriZeng/embedded_projects)**  
+  Developed a low-latency, high-concurrency firmware based on **STM32 + FreeRTOS**. Implemented three-layer architecture (HAL → Component → Business Logic), DMA circular buffer, non-blocking CLI, and 50Hz closed-loop control with PID + filtering algorithms.  
+  *Result*: Zero-deadlock design successfully reused across multiple robot hardware platforms.
 
-- **[esp32-sandbox](https://github.com/HenriZeng/esp32-sandbox)**  
-  Edge IoT telemetry & remote maintenance sandbox with **WiFi/BLE + MQTT + Dual-Slot OTA** (auto rollback).
+- **[Edge IoT Telemetry & Remote Maintenance Sandbox](https://github.com/HenriZeng/esp32-sandbox)**  
+  Built a complete embedded sandbox with 8 modules supporting **WiFi/BLE + MQTT + Dual-Slot OTA** (with auto rollback). Optimized non-blocking communication and heap usage.  
+  *Result*: Stable telemetry and remote upgrade solution for multiple IoT projects.
 
-**More projects & contributions coming soon...**
+**More projects coming soon...**
 
-### 📊 GitHub Stats
-![HenriZeng's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HenriZeng&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriZeng&layout=compact&theme=dark&hide_border=true)
+### 📄 Resume
+**[📥 Download Latest Resume (PDF)](https://github.com/HenriZeng/HenriZeng/raw/main/HenriZeng_Resume.pdf)**
+<image-card alt="Resume Preview" src="https://github.com/HenriZeng/HenriZeng/blob/main/resume-preview.png?raw=true" ></image-card>
 
-### 📫 Connect with Me
+### 📫 Let's Connect
 - 📧 henri_zeng@126.com
-- 📱 18452481758
-- 🔗 [My Resume](https://github.com/HenriZeng/HenriZeng/blob/main/曾梓微_Resume.pdf)
+- 📱 +86 18452481758
 - 🌐 Shanghai, China
 
 ---
 
-**“From vehicle hardware to reliable embedded firmware — building systems that move the world.”**
+**"Bridging vehicle engineering expertise with robust embedded firmware to power intelligent systems."**
 
 *Last updated: June 2026*
