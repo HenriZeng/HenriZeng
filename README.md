@@ -49,7 +49,10 @@
 
 ### 📄 Resume
 **[📥 Download Latest Resume (PDF)](https://github.com/HenriZeng/HenriZeng/raw/main/HenriZeng_Resume.pdf)**
-<image-card alt="Resume Preview" src="https://github.com/HenriZeng/HenriZeng/blob/main/resume-preview.png?raw=true" ></image-card>
+
+![Resume Preview](https://github.com/HenriZeng/HenriZeng/blob/main/resume-preview.png?raw=true)
+
+*Click the image or link above to view full resume*
 
 ### 📫 Let's Connect
 - 📧 henri_zeng@126.com
